@@ -13,4 +13,4 @@ and save changes.
 6. Once you're in the correct directory, run the script by entering the following command:
 '''sh
     python3 downloads_sorting_script.py
-    '''
+ '''
