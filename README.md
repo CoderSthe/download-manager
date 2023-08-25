@@ -11,6 +11,4 @@ and save changes.
 4. Open a Terminal window(Command Prompt)
 5. Navigate to the script's directory
 6. Once you're in the correct directory, run the script by entering the following command:
-'''sh
     python3 downloads_sorting_script.py
- '''
