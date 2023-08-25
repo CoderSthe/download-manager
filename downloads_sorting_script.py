@@ -1,13 +1,3 @@
-"""
-This is a script that automates the sorting of downloaded files
-into folders based on their file types.
-The script monitors the Downloads folder periodically,
-identifies the file type of each downloaded file, and
-moves it to the corresponding folder.
-
-Author: Sithembiso Mdhluli
-"""
-
 import os
 import shutil
 import time
