@@ -1,4 +1,4 @@
-# File Sorting Script
+# Download Manager
 This is a Python script that automates the process of sorting downloaded files into subfolders based on their file types.
 The script monitors the Downloads folder periodically, identifies the file type of each downloaded file, and moves it
 to the corresponding subfolder.
@@ -11,4 +11,4 @@ and save changes.
 4. Open a Terminal window(Command Prompt)
 5. Navigate to the script's directory
 6. Once you're in the correct directory, run the script by entering the following command:
-    python3 downloads_sorting_script.py
+    python3 download_manager.py
